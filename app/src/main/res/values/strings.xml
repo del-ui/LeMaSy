@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LeMaSy</string>
+    <string name="lms">Leave Management System</string>
+    <string name="dev">|Developed by Pelmak|</string>
+    <string name="copyright">© 2023</string>
+</resources>
